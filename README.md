@@ -1,2 +1,3 @@
 # GO.js
-GO.js (Graphical Output) Is a simple Javascript library for compiling some Javascript functions to HTML and CSS.
+Get the functions from a crappy PDF here: https://bit.ly/4fAarnE
+To set this up download the template and write in the script.js file
